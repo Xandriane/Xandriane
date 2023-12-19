@@ -1,9 +1,7 @@
 - 👋 Hi hey and hello, I’m Alex or @Xandriane!
-- 👀 I’m interested in coding (of course), cyber security or privacy, and overall just vibing through the internet
+- 👀 I’m interested in coding (of course), cyber security or privacy, and overall anything tech or art related
 - 🌱 I’m currently learning C++ in class, however, I have been learning about quantum computing on my off time
-- 💞️ I’m looking to collaborate on any projects that need to be debugged or have comments. 
--     I can also code whatever is needed, but I mainly feel confident in finding mistakes 
-      and comprehending what the code does
+- 💞️ I’m looking to collaborate on any projects that need debugging, comments, or any other code work needed.
 - 📫 How to reach me: 
 -     Discord - xandriane#1722
 
